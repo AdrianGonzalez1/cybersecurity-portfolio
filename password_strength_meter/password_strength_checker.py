@@ -1,3 +1,17 @@
+"""
+Password Strength Checker
+--------------------------
+Created by Adrian Gonzalez
+
+This script checks the strength of a password based on:
+- Length
+- Upper and lowercase letters
+- Digits
+- Special characters
+
+It returns a rating: Weak, Moderate, or Strong
+"""
+
 def password_strength(password):
     pass_score = 0
 
@@ -42,6 +56,7 @@ def password_strength(password):
      # Prints the final password strength score       
     print("Password stength score:", pass_score) 
 
+    # Conditional that takes the pass score and assigns a strength label
     if pass_score <= 1:
         print("Password strength: Weak")
     elif pass_score <= 3:
