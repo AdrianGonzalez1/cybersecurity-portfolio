@@ -3,8 +3,11 @@
 This repository showcases my cybersecurity projects.
 
 ## Projects
-- **Password Hashing**: Python implementation of password hashing using SHA-256.
-- **Network Security Scanner**: A tool to scan for vulnerabilities on network devices.
+- **Password Hashing**: Python implementation of password hashing using SHA-256. [View Project](./Hashpass)
+- **Network Security Scanner**: A tool to scan for vulnerabilities on network devices. [View Project](./dictionary_attack)
+- **Password Generator**: Generates secure, randomized passwords based on user-selected criteria. [View Project](./pass_generator)
+- **Password Strength Meter**: Analyzes password strength using entropy and common pattern detection. [View Project](./password_strength_meter)
+- **Tic Tac Toe**: A terminal-based Python game with win condition detection and input validation. [View Project](./tic_tac_toe)
 - **Log Parser**: Parses system logs to identify failed SSH login attempts, extracts IP addresses, counts failed attempts per IP, and prints a summary. A simple log analysis tool written in Python. [View Project](./log_parser)
 
 
