@@ -1,6 +1,6 @@
 # Cybersecurity Portfolio
 
-This repository showcases my cybersecurity projects.
+Welcome to my cybersecurity portfolio — a collection of hands-on Python-based tools and scripts built to demonstrate my skills in threat detection, automation, log analysis, and system security.
 
 ## Projects
 - **Password Hashing**: Python implementation of password hashing using SHA-256. [View Project](./Hashpass)
